@@ -5,7 +5,7 @@ Hi humans!
 this is a read me file to test how GitHub works.
 it looks like we managed to create a repository
 and we are changing the precreated read me file. 
-everything looks ok. 
+ 
 
 
 
